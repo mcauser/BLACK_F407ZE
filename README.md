@@ -77,3 +77,8 @@ $ screen /dev/tty.usbmodem1422
 
 * change HSE_VALUE from 8000000 to 25000000
 * change PLL_M from 8 to 25
+
+### Links:
+
+* [STM32F407ZE on st.com](http://www.st.com/content/st_com/en/products/microcontrollers/stm32-32-bit-arm-cortex-mcus/stm32-high-performance-mcus/stm32f4-series/stm32f407-417/stm32f407ze.html)
+* [Buy on AliExpress](https://www.aliexpress.com/item/Free-shipping-STM32F407ZET6-development-board-M4-STM32F4-core-board-arm-development-board-cortex-M4/32689262341.html) or search for "STM32F407ZET6"
