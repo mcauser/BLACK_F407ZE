@@ -62,8 +62,8 @@ $ screen /dev/tty.usbmodem1422
 * 12x general timers, 2x advanced timers
 * AMS1117-3.3V: 3.3V LDO voltage regulator, max current 800mA
 * Micro USB for power and comms
-* Yellow user LED D1 (PF9)
-* Yellow user LED D2 (PF10)
+* Yellow user LED D1 (PF9) active low
+* Yellow user LED D2 (PF10) active low
 * Yellow power LED D3
 * 2x jumpers for bootloader selection
 * Reset button, Wakeup button, 2x user buttons K0 (PE4) and K1 (PE3)
@@ -82,3 +82,5 @@ $ screen /dev/tty.usbmodem1422
 
 * [STM32F407ZE on st.com](http://www.st.com/content/st_com/en/products/microcontrollers/stm32-32-bit-arm-cortex-mcus/stm32-high-performance-mcus/stm32f4-series/stm32f407-417/stm32f407ze.html)
 * [Buy on AliExpress](https://www.aliexpress.com/item/Free-shipping-STM32F407ZET6-development-board-M4-STM32F4-core-board-arm-development-board-cortex-M4/32689262341.html) or search for "STM32F407ZET6"
+* [STM32F407ZET6 datasheet](https://github.com/mcauser/BLACK_F407ZE/blob/master/docs/STM32F407ZET6_datasheet.pdf)
+* [STM32F407ZET6 schematics](https://github.com/mcauser/BLACK_F407ZE/blob/master/docs/STM32F407ZET6_schematics.pdf)
