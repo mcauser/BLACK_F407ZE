@@ -12,7 +12,7 @@ You can buy one for around $14 USD on [AliExpress](https://www.aliexpress.com/it
 
 ### Build and deploy the firmware:
 
-* Clone the board definitions to your [MicroPython](https://github.com/micropython/micropython) ports/stm32/boards folder.
+* Clone the board definitions to your [MicroPython](https://github.com/micropython/micropython) `ports/stm32/boards` folder.
 
 ```
 cd micropython/ports/stm32/boards
@@ -34,7 +34,7 @@ make BOARD=BLACK_F407ZE deploy
 * Connect the board via USB
 
 ```
-$ screen /dev/tty.usbmodem1422
+screen /dev/tty.usbmodem1422
 ```
 
 ### Specifications:
@@ -84,3 +84,7 @@ $ screen /dev/tty.usbmodem1422
 * [Buy on AliExpress](https://www.aliexpress.com/item/Free-shipping-STM32F407ZET6-development-board-M4-STM32F4-core-board-arm-development-board-cortex-M4/32689262341.html) or search for "STM32F407ZET6"
 * [STM32F407ZET6 datasheet](https://github.com/mcauser/BLACK_F407ZE/blob/master/docs/STM32F407ZET6_datasheet.pdf)
 * [STM32F407ZET6 schematics](https://github.com/mcauser/BLACK_F407ZE/blob/master/docs/STM32F407ZET6_schematics.pdf)
+
+## License
+
+Licensed under the [MIT License](http://opensource.org/licenses/MIT).
