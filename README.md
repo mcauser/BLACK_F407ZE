@@ -68,7 +68,7 @@ screen /dev/tty.usbmodem1422
 * 2x jumpers for bootloader selection
 * Reset button, Wakeup button, 2x user buttons K0 (PE4) and K1 (PE3)
 * 2x30 side pins + 2x16 bottom pins + 1x4 ISP pins
-* 2x16 FMSC LCD Interface
+* 2x16 FSMC LCD Interface
 * NRF24L01 socket
 * M3 mounting holes
 * Dimensions: 95.1mm x 74.6mm
