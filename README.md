@@ -1,8 +1,8 @@
-# Black STM32F407ZET6
+# MCUDev Black STM32F407ZET6
 
-MicroPython board definition files for the unbranded black STM32F407ZET6 dev board.
+MicroPython board definition files for the MCUDev black STM32F407ZET6 dev board.
 
-**Brand:** Unbranded/Generic
+**Brand:** MCUDev
 
 **Markings:** STM32F4XX STM32_F4XX V3.0 1606
 
@@ -82,6 +82,7 @@ screen /dev/tty.usbmodem1422
 
 * [STM32F407ZE on st.com](http://www.st.com/content/st_com/en/products/microcontrollers/stm32-32-bit-arm-cortex-mcus/stm32-high-performance-mcus/stm32f4-series/stm32f407-417/stm32f407ze.html)
 * [Buy on AliExpress](https://www.aliexpress.com/item/Free-shipping-STM32F407ZET6-development-board-M4-STM32F4-core-board-arm-development-board-cortex-M4/32689262341.html) or search for "STM32F407ZET6"
+* [Buy on Taobao](https://item.taobao.com/item.htm?id=523276050344)
 * [STM32F407ZET6 datasheet](https://github.com/mcauser/BLACK_F407ZE/blob/master/docs/STM32F407ZET6_datasheet.pdf)
 * [STM32F407ZET6 schematics](https://github.com/mcauser/BLACK_F407ZE/blob/master/docs/STM32F407ZET6_schematics.pdf)
 
